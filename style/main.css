@@ -20,7 +20,7 @@
 }
 
 .page__header{
-    border-color: var(--dark-gray);
+    background-color: var(--dark-gray);
     padding-block: 6px;
 }
 
